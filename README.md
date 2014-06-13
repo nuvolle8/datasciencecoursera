@@ -9,3 +9,4 @@ $ git add README
 $ git commit -m 'first commit'
 $ git remote add origin https://github.com/nuvolle8/Hello-World.git
 $ git push origin master
+git clone https://github.com/nuvoll8/Hello-World.git
